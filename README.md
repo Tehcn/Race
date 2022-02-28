@@ -1,2 +1,2 @@
 # Race
-Race is a new programming language written in JavaScript. Race can work for the web, or a command line application.
+Race is a new programming language written in C++. Race is a general purpose programming language.
