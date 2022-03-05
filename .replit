@@ -1,0 +1,2 @@
+language = "cpp"
+run = "clang++ src/main.cpp -o out/race.exe && ./out/race.exe"
